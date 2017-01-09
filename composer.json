@@ -25,5 +25,5 @@
             "H34\\Core\\Tests\\": "tests/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
